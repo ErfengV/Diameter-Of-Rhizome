@@ -13,18 +13,18 @@
 
 
 
-<img src="https://github.com/ErfengV/Diameter-Of-Rhizome/blob/main/pic/109ABC73EC6E42739D8BD452EEC5348E.jpg" alt="img" style="zoom:100%;" />
+<img src="https://github.com/ErfengV/Diameter-Of-Rhizome/blob/main/pic/109ABC73EC6E42739D8BD452EEC5348E.jpg" alt="img" style="zoom:50%;" />
 
-<img src="https://github.com/ErfengV/Diameter-Of-Rhizome/blob/main/pic/4599853CE4B1DE752A57035EE2DD3434.jpg" alt="img" style="zoom:100%;" />
+<img src="https://github.com/ErfengV/Diameter-Of-Rhizome/blob/main/pic/4599853CE4B1DE752A57035EE2DD3434.jpg" alt="img" style="zoom:50%;" />
 
-<img src="https://github.com/ErfengV/Diameter-Of-Rhizome/blob/main/pic/492E4B575B4418931184AF7A2D684100.jpg" alt="img" style="zoom:100%;" />
+<img src="https://github.com/ErfengV/Diameter-Of-Rhizome/blob/main/pic/492E4B575B4418931184AF7A2D684100.jpg" alt="img" style="zoom:50%;" />
 
-<img src="https://github.com/ErfengV/Diameter-Of-Rhizome/blob/main/pic/508C479C5D6269601A85D45AE23FD99D.jpg" alt="img" style="zoom:100%;" />
+<img src="https://github.com/ErfengV/Diameter-Of-Rhizome/blob/main/pic/508C479C5D6269601A85D45AE23FD99D.jpg" alt="img" style="zoom:50%;" />
 
-<img src="https://github.com/ErfengV/Diameter-Of-Rhizome/blob/main/pic/82C3FE6F03DB3C3B23DCC69647CC9FE6.jpg" alt="img" style="zoom:100%;" />
+<img src="https://github.com/ErfengV/Diameter-Of-Rhizome/blob/main/pic/82C3FE6F03DB3C3B23DCC69647CC9FE6.jpg" alt="img" style="zoom:50%;" />
 
-<img src="https://github.com/ErfengV/Diameter-Of-Rhizome/blob/main/pic/85105922688272E6524089F5B0A3CC4C.jpg" alt="img" style="zoom:100%;" />
+<img src="https://github.com/ErfengV/Diameter-Of-Rhizome/blob/main/pic/85105922688272E6524089F5B0A3CC4C.jpg" alt="img" style="zoom:50%;" />
 
-<img src="https://github.com/ErfengV/Diameter-Of-Rhizome/blob/main/pic/ABCBB148310D69782A82C39D7FBCF4C8.jpg" alt="img" style="zoom:100%;" />
+<img src="https://github.com/ErfengV/Diameter-Of-Rhizome/blob/main/pic/ABCBB148310D69782A82C39D7FBCF4C8.jpg" alt="img" style="zoom:50%;" />
 
-<img src="https://github.com/ErfengV/Diameter-Of-Rhizome/blob/main/pic/D419CA707E40AD65C5CCCEE5D4A60AB3.jpg" alt="img" style="zoom:100%;" />
+<img src="https://github.com/ErfengV/Diameter-Of-Rhizome/blob/main/pic/D419CA707E40AD65C5CCCEE5D4A60AB3.jpg" alt="img" style="zoom:50%;" />
